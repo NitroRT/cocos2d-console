@@ -52,5 +52,5 @@
         "cocos/platform/android/Android.mk",
         "cocos/editor-support/spine/Android.mk"
     ],
-    "support_vs_versions" : [ 2015 ] 
+    "support_vs_versions" : [ 2022 ] 
 }
