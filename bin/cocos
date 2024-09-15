@@ -5,7 +5,7 @@ COCOS_CONSOLE_BIN_DIRECTORY=$(cd "$COCOS_CONSOLE_BIN_DIRECTORY" && pwd -P)
 
 
 if hash python3 3>/dev/null; then
-    PYTHON=python2
+    PYTHON=python3
 else
     if hash python 3>/dev/null; then
         VERSION="python --version"
